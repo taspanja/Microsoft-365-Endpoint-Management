@@ -1,0 +1,12 @@
+FontsFree-Net-Proxima-Nova-Black-It.otf
+FontsFree-Net-Proxima-Nova-Bold-It.otf
+FontsFree-Net-Proxima-Nova-Light-It.otf
+FontsFree-Net-Proxima-Nova-Reg-It.otf
+FontsFree-Net-Proxima-Nova-Sbold-It.otf
+FontsFree-Net-Proxima-Nova-Thin-It.otf
+FontsFree-Net-Proxima-Nova-Xbold-It.otf
+Proxima Nova Black.otf
+Proxima Nova Bold.otf
+Proxima Nova Extrabold.otf
+Proxima Nova Thin.otf
+ProximaNova-Regular.otf
